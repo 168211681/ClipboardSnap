@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>ClipboardSnap</title>
+        <link>https://168211681.github.io/ClipboardSnap/appcast.xml</link>
+        <description>ClipboardSnap Updates</description>
+        <language>en</language>
+        
+        <item>
+            <title>Version 2.0.1</title>
+            <pubDate>Mon, 05 Jan 2025 12:00:00 +0000</pubDate>
+            <sparkle:version>2.0.1</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                url="https://github.com/168211681/ClipboardSnap/releases/download/v2.0.1/ClipboardSnap-2.0.1.dmg"
+                sparkle:edSignature="SIGNATURE_WILL_BE_ADDED_AFTER_SIGNING"
+                length="12345678"
+                type="application/octet-stream"/>
+            <description><![CDATA[
+                <h2>What's New in 2.0.1</h2>
+                <ul>
+                    <li>Added Sparkle auto-update</li>
+                    <li>Bug fixes</li>
+                    <li>Performance improvements</li>
+                </ul>
+            ]]></description>
+        </item>
+    </channel>
+</rss>
